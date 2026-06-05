@@ -1,0 +1,823 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 12252
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 21 Tf
+24.1499999999999986 TL
+0. g
+205.2399999999999807 802.2049606299212883 Td
+(SAHAJPAL SINGH) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.463 0.431 rg
+146.5749999999999886 786.614409448818833 Td
+(Cloud Engineer  |  AWS Certified SysOps Administrator  |  DevOps Engineer) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+85.1600000000001529 773.8585039370078675 Td
+(+91 8941998996  o  sahajpal1905@gmail.com  o  linkedin.com/in/sahajshj  o  github.com/Sahajshj  o  Uttarakhand, India) Tj
+ET
+0.78 G
+0.2834645669291339 w
+34.0157480314960665 758.2679527559055259 m
+561.2642519685039133 758.2679527559055259 l
+S
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+270.6549999999999727 749.7640157480315111 Td
+(SUMMARY) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 745.5120472440944468 m
+561.2642519685039133 745.5120472440944468 l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.196 g
+7.2106250000000394 Tw
+36.8503937007874072 734.1734645669291695 Td
+(AWS Certified SysOps Administrator and Cloud Engineer with 1+ year of experience designing, automating, and managing AWS) Tj
+5.3064705882353236 Tw
+0. -9.7749999999999986 Td
+(infrastructure using Terraform, Docker, Kubernetes, and CI/CD pipelines. Skilled in Infrastructure as Code \(IaC\), AWS EKS, Helm chart) Tj
+6.1157142857143283 Tw
+0. -9.7749999999999986 Td
+(deployments, Linux administration, cloud monitoring with Prometheus and Grafana, and deployment automation. Experienced in building) Tj
+0 Tw
+0. -9.7749999999999986 Td
+(scalable cloud-native solutions while improving reliability, security, and operational efficiency.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+264.0399999999999636 681.7325196850392786 Td
+(EXPERIENCE) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 677.480551181102328 m
+561.2642519685039133 677.480551181102328 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.463 0.431 rg
+36.8503937007874072 666.1419685039369369 Td
+(STGi \(The Summit Group\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.196 g
+488.6996062992125758 666.1419685039369369 Td
+(Panchkula, India) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0. g
+36.8503937007874072 654.8033858267716596 Td
+(Developer & Cloud Engineer) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+481.5496062992125417 654.8033858267716596 Td
+(May 2025 - May 2026) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.392 g
+36.8503937007874072 643.4648031496062686 Td
+(Provider of cutting-edge technology and professional services to federal customers across health, IT, and education sectors.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 632.1262204724408775 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 632.1262204724408775 Td
+(Engineered and maintained 10+ Terraform IaC modules for AWS environments, reducing manual provisioning time by 40%.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 622.4884251968503577 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 622.4884251968503577 Td
+(Updated 5+ Terraform registry modules, IAM policies, and security rules, improving compliance coverage across environments.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 612.8506299212597241 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 612.8506299212597241 Td
+(Led Terraform v6 migration and AWS EKS \(Kubernetes\) configuration updates, reducing deployment failures by 30% and improving cluster) Tj
+T* (stability.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 594.42543307086612 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 594.42543307086612 Td
+(Reviewed and merged 20+ infrastructure Pull Requests through GitHub Actions CI/CD pipelines, maintaining a 0-downtime deployment record.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 584.7876377952754865 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 584.7876377952754865 Td
+(Configured Datadog monitoring and alerting dashboards, improving incident detection and mean time to resolution \(MTTR\).) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 575.149842519684853 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 575.149842519684853 Td
+(Built and maintained 3+ frontend features for a multi-tenant Loan Origination System using Vue.js, serving 500+ users.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 565.5120472440944468 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 565.5120472440944468 Td
+(Collaborated with backend engineers and QA teams to resolve 15+ production issues, improving workflow usability by 25%.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+266.5074999999999363 544.5356692913384222 Td
+(EDUCATION) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 540.2837007874014716 m
+561.2642519685039133 540.2837007874014716 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.463 0.431 rg
+36.8503937007874072 528.9451181102360806 Td
+(Chitkara University) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.196 g
+513.2946062992125462 528.9451181102360806 Td
+(CGPA: 8.44) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 518.1734645669289421 Td
+(B.Tech in Computer Science & Engineering) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+516.1096062992124871 518.1734645669289421 Td
+(2022 - 2026) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+36.8503937007874072 505.4175590551179766 Td
+(CBSE \(Class XII\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.196 g
+534.4596062992125098 505.4175590551179766 Td
+(93.8%) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 494.645905511810895 Td
+(Science Streams, Schooling) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+516.1096062992124871 494.645905511810895 Td
+(2020 - 2021) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.314 g
+36.8503937007874072 481.8899999999998727 Td
+(CBSE \(Class X\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.196 g
+534.4596062992125098 481.8899999999998727 Td
+(90.4%) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 471.1183464566927341 Td
+(Schooling) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+516.1096062992124871 471.1183464566927341 Td
+(2018 - 2019) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+253.6974999999999625 455.5277952755903925 Td
+(CERTIFICATIONS) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 451.2758267716533851 m
+561.2642519685039133 451.2758267716533851 l
+S
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0. g
+36.8503937007874072 439.9372440944879941 Td
+(AWS Certified SysOps Administrator - Associate) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+403.8696062992125349 439.9372440944879941 Td
+(Amazon Web Services  |  2024  |  No Expiry) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+247.3449999999999704 417.2600787401573257 Td
+(TECHNICAL SKILLS) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 413.0081102362202614 m
+561.2642519685039133 413.0081102362202614 l
+S
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.235 g
+36.8503937007874072 401.6695275590549272 Td
+(Cloud & Infrastructure: ) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+126.370393700787389 401.6695275590549272 Td
+(AWS \(EC2, S3, IAM, VPC, CloudWatch, EKS\), Terraform, Infrastructure as Code \(IaC\), Kubernetes, Helm, Docker) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.235 g
+36.8503937007874072 391.4648031496061549 Td
+(CI/CD & Automation: ) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+118.0503937007873816 391.4648031496061549 Td
+(GitHub Actions, CI/CD Pipelines, Bash Scripting, YAML, Git) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.235 g
+36.8503937007874072 381.2600787401573257 Td
+(Monitoring & Observability: ) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+143.730393700787431 381.2600787401573257 Td
+(Datadog, Prometheus, Grafana, CloudWatch) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.235 g
+36.8503937007874072 371.0553543307085533 Td
+(Backend & Frontend: ) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+119.6503937007873901 371.0553543307085533 Td
+(Node.js, MongoDB, Vue.js, JavaScript, C#, RESTful APIs, JWT Authentication) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.235 g
+36.8503937007874072 360.8506299212597241 Td
+(Operating Systems: ) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+114.2903937007874191 360.8506299212597241 Td
+(Linux \(Ubuntu, Amazon Linux\), Windows Server) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+225.9249999999999545 339.3073228346455608 Td
+(AWARDS & ACHIEVEMENTS) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 335.0553543307085533 m
+561.2642519685039133 335.0553543307085533 l
+S
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0. g
+36.8503937007874072 323.7167716535432191 Td
+(RoboSprint - 1st Place) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 314.6459055118109518 Td
+(Ranked 1st out of 50+ teams - built a robotics-based environmental cleaning solution.) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0. g
+36.8503937007874072 302.1734645669290558 Td
+(Kalp Build Hackathon Winner) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 293.1025984251967884 Td
+(Won among 100+ participants, delivering a blockchain voting system and securing INR 10,000.) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0. g
+36.8503937007874072 280.6301574803148924 Td
+(Blue Marble Study Program) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 271.559291338582625 Td
+(Selected among 28 students globally for the Blue Marble Study Program at Deakin University.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0. g
+269.5 250.5829133858267141 Td
+(PROJECTS) Tj
+ET
+0.47 G
+0.5669291338582678 w
+34.0157480314960665 246.3309448818896783 m
+561.2642519685039133 246.3309448818896783 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.463 0.431 rg
+36.8503937007874072 234.9923622047243725 Td
+(Uplift - Mental Health Platform) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+540.8296062992125144 234.9923622047243725 Td
+(2024) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 225.0711023622046696 Td
+(Mental health platform providing doctor consultation and community engagement features.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 215.1498425196849666 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 215.1498425196849666 Td
+(Expanded backend services with 8+ RESTful APIs using Node.js and MongoDB, supporting scalable data management.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 205.5120472440944468 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 205.5120472440944468 Td
+(Implemented JWT-based authentication, reducing unauthorized access attempts by 100% in testing.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.463 0.431 rg
+36.8503937007874072 190.2049606299211746 Td
+(Social Media Application) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+540.8296062992125144 190.2049606299211746 Td
+(2024) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 180.2837007874014716 Td
+(Instagram-inspired social media application with full post and interaction system.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 170.3624409448817687 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 170.3624409448817687 Td
+(Enhanced 5+ backend microservice modules including posts, likes, comments, and user management supporting 200+ concurrent users.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.463 0.431 rg
+36.8503937007874072 155.0553543307084965 Td
+(River Cleaning Robot) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+516.1096062992124871 155.0553543307084965 Td
+(2023 - 2024) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.314 g
+36.8503937007874072 145.1340944881889072 Td
+(Automated robot solution addressing water pollution using embedded hardware.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+38.2677165354330739 135.2128346456692043 Td
+(-) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+46.7716535433070888 135.2128346456692043 Td
+(Improved autonomous debris detection to 85% accuracy using Arduino Uno and Raspberry Pi for environmental sustainability.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260605222019+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000012457 00000 n 
+0000014274 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000012514 00000 n 
+0000012639 00000 n 
+0000012769 00000 n 
+0000012902 00000 n 
+0000013039 00000 n 
+0000013162 00000 n 
+0000013291 00000 n 
+0000013423 00000 n 
+0000013559 00000 n 
+0000013687 00000 n 
+0000013814 00000 n 
+0000013943 00000 n 
+0000014076 00000 n 
+0000014178 00000 n 
+0000014522 00000 n 
+0000014608 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <A481F5730FBA48B61B2EB7DF163E7E34> <A481F5730FBA48B61B2EB7DF163E7E34> ]
+>>
+startxref
+14712
+%%EOF
